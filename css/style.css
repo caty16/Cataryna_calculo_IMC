@@ -155,7 +155,7 @@ body {
     align-items: center;
     gap: 0.6rem;
     color: #16a34a;
-    font-size: 0.875rem;
+    font-size: 18px;
     text-decoration: none;
     transition: color 0.5s;
 }
